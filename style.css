@@ -1,0 +1,114 @@
+body {
+	font: 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+	background: linear-gradient(to right, red , yellow);
+}
+
+h1 {
+    font: 600 3.5em 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+}
+
+h3 {
+	font: 900 1em 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+
+}
+
+
+/* body {
+    color: rgba(41, 41, 41, 0.808);
+    font-family: 'Quantico', sans-serif;
+    height: 100%;
+    margin: 0;
+    background: linear-gradient(to right, #f2ff3e, #ff9100);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.container{
+    text-align: center;
+    margin: 0 auto;
+}
+.color2{
+    border-radius: 5px;
+    background-color: black;
+    border: 3px solid rgb(41, 41, 41);
+    transition: 0.2s;
+}
+
+.color2:focus{
+    outline:none;
+}
+
+.color2:hover{
+    border: 3px solid black;
+    transition: 0.2s;
+}
+
+.color1{
+    border-radius: 5px;
+    background-color: black;
+    border: 3px solid rgb(41, 41, 41);
+    transition: 0.2s;
+}
+
+.color1:focus{
+    outline:none;
+}
+
+.color1:hover{
+    border: 3px solid black;
+    transition: 0.2s;
+}
+
+h1{
+    color: rgba(41, 41, 41, 0.808);
+    font-size: 50px;
+    letter-spacing: 25px;
+} */
+
+#random {
+	display: block;
+	margin: 10px auto;
+	border-radius: 10px 10px;
+	border: none;
+	padding: 5px 15px;
+	opacity: .6;
+	font-size: 20px;
+    text-align: center;
+    cursor: pointer;
+}
+
+#random:focus{
+    outline: none;
+}
+
+/* .copybutton{
+    border-radius: 10px;
+    padding: 5px 15px;
+    cursor: pointer;
+    border: none;
+    opacity: .6;
+    font-size: 15px;
+}
+
+.copybutton:focus{
+    outline:none;
+} */
+
+h4{
+    margin-top: -20px;
+    color: blanchedalmond;
+}
